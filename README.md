@@ -18,4 +18,4 @@ transformers == 4.33.2
 sentence-transformers == 2.2.2
 
 # Getting Started
-See ALFWorld/ and Mind2Web/ folders for details about our experiments on these two environments.
+See [ALFWorld/](https://github.com/SkyRiver-2000/TRAD-Official/tree/main/ALFWorld) and [Mind2Web/](https://github.com/SkyRiver-2000/TRAD-Official/tree/main/Mind2Web) folders for details about our experiments on these two environments.
