@@ -1,5 +1,5 @@
 # DuSAR
-Official PyTorch implementation of Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making
+Official PyTorch implementation
 
 Requirements
 
